@@ -1,0 +1,13 @@
+img {
+
+    clip-path: circle(50% at right);
+
+    
+
+    shape-outside: circle(10%);
+    
+    
+}
+
+ 
+   
